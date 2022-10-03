@@ -1,0 +1,134 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #F7F7FF;
+    font-family: Verdana, sans-serif;
+}
+
+.containerH {
+    background-color: #495867;
+    display: flex;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding: 10px;    
+    justify-content: space-between;
+}
+
+.itemH {
+    font-family: Verdana, sans-serif;
+    color: white;
+}
+
+nav ul {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+nav ul li {
+    list-style: none;
+    padding: 0 10px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+nav  ul li a :hover {
+    color: #577399;
+}
+
+.containerM {
+    display: flex;
+}
+
+.containerP {
+    display: flex;
+    top: 10px;
+}
+
+.itemP.greeting {
+    display: flex;
+    align-items: center;
+}
+
+.greeting {
+    background-color: #BDD5EA;
+    height: 70px;
+    width: 150px;
+    border-radius: 50%;
+    border: 3px solid #577399;
+    transform: translate(-395px, 15px);
+    text-align: center;
+}
+
+.containerB {
+    display: flex;
+    font-size: 13px;
+    position: relative;
+    left: -260px;
+    padding: 5px;
+    padding-top: 50px;
+    width: 100%;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.itemB {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    border-radius: 50%;
+    border: 3px solid #577399;
+    width: 500px;
+    background-color: #BDD5EA;
+}
+
+.bubble1 {
+    position: relative;
+    padding: 30px;
+}
+
+.bubble2 {
+    position: relative;
+    left: 200px;
+    top: -35px;
+    padding: 27px;
+}
+
+.bubble3 {
+    position: relative;
+    bottom: 65px;
+    left: 60px;
+    padding: 30px;
+}
+
+img {
+    height: 400px;
+}
+
+
+.containerF {
+    display: flex;
+    background-color: #FE5F55;
+    height: 150px;
+    justify-content: space-around;
+    align-items: flex-end;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.itemF {
+    background-color: #577399;
+    color: white;
+    width: 28%;
+    height: 80%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    text-align: center;
+    padding-top: 10px;
+}
