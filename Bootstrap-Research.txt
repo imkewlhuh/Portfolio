@@ -1,0 +1,18 @@
+Bootstrap is the most popular CSS framework for creating responsive websites.
+It is also mobile oriented and works well on multiple devices. It was developed by
+Jacob Thornton and Mark Otto from Twitter. It was released in 2011 as a free, open
+source product. By 2014, it became the #1 project on Github.
+
+Using Bootstrap allows you to structure content that will automatically adjust its size
+across any screen. It has a collection of syntax prepared for various template designs.
+With Bootstrap, an app or web page is able to detect the visitor's device orientation
+and screen size. It was designed with smartphones and tablets in mind as the primary user.
+
+
+
+"What is Bootstrap"
+-https://www.javatpoint.com/what-is-bootstrap
+
+
+"What is Bootstrap?"
+-https://www.techtarget.com/whatis/definition/bootstrap
