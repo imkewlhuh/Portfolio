@@ -88,19 +88,19 @@ nav  ul li a :hover {
     background-color: #BDD5EA;
 }
 
-.bubble1 {
+.B1 {
     position: relative;
     padding: 30px;
 }
 
-.bubble2 {
+.B2 {
     position: relative;
     left: 200px;
     top: -35px;
     padding: 27px;
 }
 
-.bubble3 {
+.B3 {
     position: relative;
     bottom: 65px;
     left: 60px;
